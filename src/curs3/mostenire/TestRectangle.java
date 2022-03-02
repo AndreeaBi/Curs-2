@@ -8,7 +8,7 @@ public class TestRectangle {
 		obj.setLength(2);
 		obj.setWidth(5);
 		
-		obj.length = 6;
+	
 		
 		System.out.println(obj.calcualteArea());
 

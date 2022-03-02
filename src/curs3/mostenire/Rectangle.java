@@ -2,8 +2,13 @@ package curs3.mostenire;
 
 public class Rectangle {
 	
-	public int length;
-	public int width;
+	private int length;
+	private int width;
+	
+	//constructor--optional pentru noi, pentru ca Java il seteaza automat daca nu il punem noi
+	public Rectangle() {
+		
+	}
 	
 	public int getLength() {
 		return length;
