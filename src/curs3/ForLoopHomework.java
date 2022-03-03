@@ -9,11 +9,8 @@ public class ForLoopHomework {
 		
 		for(int i=0; i<=MaxPar; i++) {
 			if(i%2 == 0) {
-				System.out.println(i + " ");
-			
-			}
-
-			
+				System.out.println(i + " ");			
+			}			
 			
 			
 		}
