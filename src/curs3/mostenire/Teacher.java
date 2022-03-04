@@ -29,8 +29,5 @@ public class Teacher {
 	public void setSchedule(String schedule) {
 		this.Schedule = schedule;
 	}
-	
-	
-	
 
 }
